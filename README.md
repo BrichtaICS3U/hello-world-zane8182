@@ -33,3 +33,7 @@ git add .               Add any newly created file to the local repository
 git commit -m “<message>”   Commit changes to the local repository with a message. You must always include a message
 git push                Push the changes in the local repository to the remote repository on Github.com
 git pull                Check that the local repository is up to date with the remote repository.
+
+Part B
+
+Complete the basic file 'heron.py' to successfully calculate the square root of a number.
